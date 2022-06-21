@@ -24,6 +24,7 @@ int main()
 	cout<<"Enter the key: ";
 	cin>>key;
 	
+	// array must be sortee inorder to implement binary search algorithm
 	//sort
 	for(i=1;i<n;i++)
 	{
